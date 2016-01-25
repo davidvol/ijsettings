@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Directory 'C:\dev\src3\kinetix-framework-java\kinetix-servercore'" />
+    <option name="defaultScopeName" value="Directory 'C:\dev\src3\kinetix-framework-java\kinetix-servercore'" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\dev\src3\kinetix-framework-java\kinetix-servercore'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
