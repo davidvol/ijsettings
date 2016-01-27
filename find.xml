@@ -3,18 +3,18 @@
     <option name="customScope" value="Directory 'C:\dev\src3\kinetix-framework-java\kinetix-servercore'" />
     <option name="defaultScopeName" value="Directory 'C:\dev\src3\kinetix-framework-java\kinetix-servercore'" />
     <option name="SEARCH_SCOPE" value="Directory 'C:\dev\src3\kinetix-framework-java\kinetix-servercore'" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.xml</mask>
       <mask>*.gradle</mask>
+      <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
