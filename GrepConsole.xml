@@ -73,9 +73,13 @@
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="2c1003c2-f722-4dab-b077-cad8a0bedced" />
-                      <option name="inputFilter" value="true" />
                       <option name="style">
                         <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                           <option name="foregroundColor">
                             <GrepColor>
                               <option name="color" value="-8355712" />
@@ -91,8 +95,14 @@
                       <option name="id" value="0eb79203-f30c-41c7-925f-e44b3530ecfd" />
                       <option name="style">
                         <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-397877" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
