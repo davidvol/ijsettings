@@ -114,4 +114,7 @@
   <component name="RefactoringSettings">
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
   </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://dev.kinetixtt.net/teamcity&amp;^%$#@david.vollandt@#$%^&amp;http://buildserver&amp;^%$#@david.vollandt" />
+  </component>
 </application>
